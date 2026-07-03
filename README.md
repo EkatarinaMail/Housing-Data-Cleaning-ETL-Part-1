@@ -12,11 +12,11 @@ unified, analysis-ready dataset. The goal was to eliminate human errors and stru
 glitches, ensuring absolute data integrity for downstream reporting. 
 
 
-<img width="771" height="471" alt="2 Enterprise Data Ingestion from MS SQL Server" src="https://github.com/user-attachments/assets/a965f40b-da5f-4487-9f44-9fe3b211c7f5" />
+<img width="771" height="471" alt="Data Ingestion from MS SQL Server" src="https://github.com/user-attachments/assets/758edda9-d4f6-41d9-afaf-6fb21d7cf75f" />
+*Data Ingestion from MS SQL Server*
 
-
-<img width="1193" height="531" alt="3 Power Query Navigator Initialising the Repairs_Log Dataset" src="https://github.com/user-attachments/assets/424f1a97-51fb-49b0-9272-2c233868a36f" />
-
+<img width="1193" height="531" alt="Loading raw SQL Server data into Power Query" src="https://github.com/user-attachments/assets/f76a8925-08c4-4575-b5b8-fa1621402636" />
+*Loading raw SQL Server data into Power Query*
 
 
 ## Key Skills Demonstrated
@@ -42,17 +42,17 @@ applying Fixed Decimal Numbers to currency fields to eliminate rounding errors.
 
 
 
-<img width="1333" height="661" alt="8 Column From Examples for Postcode Parsing" src="https://github.com/user-attachments/assets/25e0f5e6-9334-456b-bc6d-ff4b583a02b5" />
+<img width="1333" height="661" alt="Column From Examples for Postcode Parsing" src="https://github.com/user-attachments/assets/5763856f-3315-4291-926d-420ac52c6564" />
+*Column From Examples for Postcode Parsing*
 
+<img width="1345" height="629" alt="Clean data result and profiling validation for the Tenancies table" src="https://github.com/user-attachments/assets/06b9d37b-c41b-44c7-b192-e820392a685f" />
+*Clean data result and profiling validation for the Tenancies table*
 
-<img width="1345" height="629" alt="11 Data Profiling   Quality Validation via Applied Steps Panel" src="https://github.com/user-attachments/assets/9001c955-0c18-479c-ae0d-3916b41eb8e6" />
+<img width="1339" height="661" alt="Clean data result and profiling validation for the Vulnerability table" src="https://github.com/user-attachments/assets/d28d7f44-077c-4ca0-819c-f75b64efe401" />
+*Clean data result and profiling validation for the Vulnerability table*
 
-
-<img width="1339" height="661" alt="14 Handling Missing Values   Normalising Vulnerability Register Anomalies" src="https://github.com/user-attachments/assets/629ba463-c98f-4576-a330-7b1cdba9361c" />
-
-
-<img width="1347" height="637" alt="15 Categorical Standardisation   Text Mapping for Repairs Category" src="https://github.com/user-attachments/assets/b5e68b09-fcc8-4ee1-b2e1-7c03713470a8" />
-
+<img width="1347" height="637" alt="Clean data result and profiling validation for the Repair_Log table" src="https://github.com/user-attachments/assets/7b397743-1673-424b-b706-75c168c08872" />
+*Clean data result and profiling validation for the Repair_Log table*
 
 ## Tools Used 
 
