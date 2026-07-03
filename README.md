@@ -1,6 +1,7 @@
 # Housing-Data-Cleaning-ETL
 
 <img width="1351" height="670" alt="Animation 5" src="https://github.com/user-attachments/assets/933e85fc-5f1c-4635-a52e-21cad36838bf" />
+
 *From raw multi-source files (Excel/SQL Server) to the final cleansed dataset in Power Query*
 
 ## Project Overview 
