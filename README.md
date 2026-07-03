@@ -16,6 +16,7 @@ glitches, ensuring absolute data integrity for downstream reporting.
 
 
 ![Data Ingestion from MS SQL Server](https://github.com/user-attachments/assets/758edda9-d4f6-41d9-afaf-6fb21d7cf75f)
+
 *Data Ingestion from MS SQL Server*
 
 ![Loading raw SQL Server data into Power Query](https://github.com/user-attachments/assets/f76a8925-08c4-4575-b5b8-fa1621402636)
