@@ -1,6 +1,7 @@
 # Housing-Data-Cleaning-ETL
 
-![Uploading Animation 5.gif…]()
+<img width="1351" height="670" alt="Animation 5" src="https://github.com/user-attachments/assets/933e85fc-5f1c-4635-a52e-21cad36838bf" />
+
 
 ## Project Overview 
 
