@@ -51,4 +51,4 @@ Using Power Query, I built a repeatable ETL process that transformed these sourc
 Power BI Desktop, Power Query, MS SQL Server, Excel, CRM (Reapit/Capita) data exports. 
 
 
-👉 **Check out the next phase here:** [Housing-Data-Modelling-Metrics-PowerBI](https://github.com/EkatarinaMail/Housing-Data-Modelling-Metrics-PowerBI/blob/main/README.md)
+👉 **Check out the next phase here:** [Housing-Data-Modelling-Metrics-PowerBI](https://github.com/EkatarinaMail/Housing-Data-Modelling-Metrics-PowerBI)
