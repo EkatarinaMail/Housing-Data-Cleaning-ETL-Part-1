@@ -7,12 +7,9 @@
 
 ## Project Overview 
 
-This project demonstrates data transformation techniques to clean and 
-standardise messy, real-world system exports typical of those from UK housing 
-associations (e.g., Reapit or Capita). By simulating a production environment, I integrated 
-three disparate data sources- MS SQL Server logs, flat CSVs, and manual Excel files, into a 
-unified, analysis-ready dataset. The goal was to eliminate human errors and structural 
-glitches, ensuring absolute data integrity for downstream reporting. 
+This project focuses on cleaning and preparing raw housing data for analysis in Power BI. The dataset combines information from SQL Server, CSV files, and Excel spreadsheets, each containing common data quality issues such as duplicates, inconsistent formatting, and missing values.
+
+Using Power Query, I built a repeatable ETL process that transformed these sources into a clean and reliable dataset ready for data modelling and reporting. 
 
 
 ![Data Ingestion from MS SQL Server](https://github.com/user-attachments/assets/758edda9-d4f6-41d9-afaf-6fb21d7cf75f)
@@ -25,24 +22,15 @@ glitches, ensuring absolute data integrity for downstream reporting.
 
 ## Key Skills Demonstrated
 
-* Multi-Source Data Integration: I ingested and consolidated three distinct data streams 
-(SQL Server Repairs Log, a CRM Tenancy Register CSV, and a manual Excel Vulnerability 
-Register) into a centralised Power Query pipeline. 
+* Data Integration: Combined data from SQL Server, CSV files, and Excel into a single Power Query workflow, creating one consistent dataset for analysis. 
 
-* Text Standardisation & Hygiene: I resolved case discrepancies (e.g., "EALING" vs "ealing") 
-by applying text capitalisation and using the Trim tool to eliminate trailing whitespace, 
-preventing categorisation errors. 
+* Data Cleaning: Standardised text values by fixing inconsistent capitalisation, removing extra spaces, and correcting formatting issues to improve data quality. 
 
-* Data De-duplication: I implemented structural de-duplication steps across the unified 
-rows to eradicate system export glitches and isolate unique property entries. 
+* Removing Duplicates: Identified and removed duplicate records created during system exports, ensuring each property appeared only once in the final dataset.
 
-* Pattern Recognition & Parsing: I utilised the "Column From Examples" feature in Power 
-Query to automatically parse and standardise unformatted British postcodes (e.g., 
-converting "tw33pa" to "TW3 3PA") for future geospatial mapping.
+* Data Transformation: Used Power Query's Column From Examples feature to extract and format UK postcodes into a consistent structure, making the data suitable for future reporting and mapping.
 
-* Data Type Optimisation: I replaced text anomalies (like "MISSING" or "None") with proper 
-system null values to preserve calculation integrity. Finally, I enforced strict data types, 
-applying Fixed Decimal Numbers to currency fields to eliminate rounding errors. 
+* Data Quality: Replaced invalid text values such as "MISSING" and "None" with proper null values and assigned appropriate data types, including fixed decimal numbers for financial data, to ensure accurate calculations
 
 
 
